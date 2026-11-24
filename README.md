@@ -10,14 +10,13 @@ I'm an IT student at **Ambo University**, passionate about technology, programmi
 - 🎯 My goal is to become a skilled software developer and contribute to innovative technology solutions.
 - 🌍 Based in Ethiopia
 
-### 🛠️ Technologies & Tools
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- Java
-- Git & GitHub
+### 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
+</p>
+
 
 ### 📂 My Portfolio
 
